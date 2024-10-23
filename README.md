@@ -1,6 +1,6 @@
 # Sobre:
 
-Este bot pode ser utilizado para compartilhar informações de forma facilitada via Discord.
+Este bot pode ser utilizado para fazer o envio de mensagens automaticamente via Discord.
 
 # Tutorial de uso:
 1. Logue o Discord no navegador que você estiver usando;
